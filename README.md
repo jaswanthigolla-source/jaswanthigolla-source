@@ -1,16 +1,22 @@
-## Hi there 👋
+# Jaswanthi Golla
 
-<!--
-**jaswanthigolla-source/jaswanthigolla-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend and Platform Engineer — Java, Spring Boot, Kafka, Kubernetes, Terraform.
 
-Here are some ideas to get you started:
+2+ years in production at **Advance Auto Parts**, Commerce Services team.
+Building distributed systems that handle e-commerce workloads at scale.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Day to day:** Java 17 · Spring Boot · Kafka · Kubernetes · OpenShift · Jenkins · Grafana · New Relic
+
+**Built in projects:** Helm · ArgoCD · Terraform · Prometheus · Loki · Jaeger · Docker · GitHub Actions · AWS
+
+---
+
+![Stats](https://github-readme-stats.vercel.app/api?username=jaswanthigolla-source&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaswanthigolla-source&theme=dark&hide_border=true)
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswanthi-golla)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jaswanthi.golla@gmail.com)
