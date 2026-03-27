@@ -1,81 +1,152 @@
-# 💫 About Me:
-🔭 Backend Engineer at Advance Auto Parts — Fortune 500, $11B revenue<br><br>⚡ 2 years production experience: Apache Kafka pipelines for 4,300+ US stores | Java Spring Boot | Kubernetes on AWS EKS and Azure AKS<br><br>🌱 Currently building: Go skills | Distributed systems deep dives<br><br>💬 Ask me about: Kafka event-driven architecture | LGTM observability stacks | Kubernetes GitOps | Terraform AWS provisioning<br><br>📄 IEEE Published Researcher — ICSCNA 2023 (ML Applied to Network Analysis)<br><br>📫 Reach me: jaswanthi.golla@gmail.com<br><br>🎯 Open to: Remote Backend | Platform | SRE | DevOps roles — US / EU / AU / APAC
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaswanthi-golla) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaswanthi.golla@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jaswanthi%20Golla&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20Platform%20Engineer&descAlignY=58&descSize=20&descColor=a8d8ea" width="100%"/>
 
-# 💻 Tech Stack:
+</div>
 
-**Languages and Frameworks**<br>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+<br/>
 
-**Infrastructure and Cloud**<br>
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white) ![ArgoCD](https://img.shields.io/badge/Argo%20CD-1e0f63?style=for-the-badge&logo=argo&logoColor=#d16044)
+<div align="center">
 
-**Observability and CI/CD**<br>
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2C9AE8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+distributed+systems+that+scale+%F0%9F%94%A7;Java+%C2%B7+Kafka+%C2%B7+Kubernetes+%C2%B7+Terraform+%C2%B7+AWS;Backend+%26+Platform+Engineer+%40+Advance+Auto+Parts)
 
-**Databases**<br>
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+</div>
 
-**Tools**<br>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jaswanthigolla-source&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jaswanthigolla-source&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthigolla-source&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jaswanthigolla-source&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
 ---
 
-## 🚀 Featured Projects
+## 👩‍💻 About Me
 
-### [Distributed Order Orchestration Service](https://github.com/jaswanthigolla-source/event-driven-commerce-platform)
-> Java 17 · Spring Boot · Apache Kafka · PostgreSQL · Docker · Kubernetes
+I build distributed backend systems and platform infrastructure.
 
-Event-driven order management with Kafka saga orchestration, circuit breaker patterns, exactly-once processing guarantees, and full Prometheus and Grafana observability stack.
+Currently at **Advance Auto Parts** on the Commerce Services team — working with Java, Spring Boot, Apache Kafka, Kubernetes and OpenShift to build and operate microservices for a large-scale e-commerce platform.
 
----
-
-### [Microservices Observability Stack](https://github.com/jaswanthigolla-source/microservices-observability-stack)
-> Prometheus · Grafana · Loki · Jaeger · Alertmanager · Micrometer
-
-Production-grade LGTM observability platform with custom PromQL dashboards, LogQL queries, distributed tracing, SLO enforcement, and automated Slack incident routing.
+Outside of work I've built across the full platform engineering stack — observability with Prometheus, Grafana, Loki and Jaeger · Kubernetes platform engineering with Helm and ArgoCD · Infrastructure automation with Terraform on AWS.
 
 ---
 
-### [Kubernetes Platform Lab](https://github.com/jaswanthigolla-source/kubernetes-platform-lab)
-> Kubernetes · Helm · ArgoCD · Terraform · GitHub Actions
+## 🛠️ Tech Stack
 
-Multi-environment Kubernetes platform with ArgoCD GitOps, Helm chart management, HPA autoscaling, and complete Terraform infrastructure-as-code pipeline.
+**Languages & Frameworks**
+
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+**Infrastructure & DevOps**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Observability**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F7C948?style=for-the-badge&logo=grafana&logoColor=black)
+![Jaeger](https://img.shields.io/badge/Jaeger-66CFE1?style=for-the-badge&logo=jaeger&logoColor=black)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-### [Platform Infrastructure as Code](https://github.com/jaswanthigolla-source/platform-infrastructure-as-code)
-> Terraform · AWS EKS · VPC · RDS · IAM · S3
+## 🚀 Projects
 
-Full AWS infrastructure using reusable Terraform modules with S3 remote state, DynamoDB locking, and output chaining between VPC, EKS, and RDS.
+<table>
+<tr>
+<td width="50%">
+
+### 🔧 [event-driven-commerce-platform](https://github.com/jaswanthigolla-source/event-driven-commerce-platform)
+**How do you build microservices that never lose events?**
+4 Spring Boot services on Kafka — DLQ handling, exponential backoff retry, idempotency keys, Kubernetes manifests, GitHub Actions CI/CD.
+
+`Java 17` `Spring Boot` `Kafka` `Kubernetes` `Docker`
+
+</td>
+<td width="50%">
+
+### 🔍 [microservices-observability-stack](https://github.com/jaswanthigolla-source/microservices-observability-stack)
+**How do you know something is wrong before your users do?**
+Prometheus + Grafana + Loki + Jaeger + Alertmanager. Custom business metrics, 5 alert rules, incident runbooks with PromQL.
+
+`Prometheus` `Grafana` `Loki` `Jaeger` `Micrometer`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚙️ [kubernetes-platform-lab](https://github.com/jaswanthigolla-source/kubernetes-platform-lab)
+**How do you engineer a platform, not just deploy to one?**
+RBAC, network policies, HPA autoscaling, Helm chart, ArgoCD GitOps for automated CD from GitHub.
+
+`Kubernetes` `Helm` `ArgoCD` `RBAC` `GitOps`
+
+</td>
+<td width="50%">
+
+### 🏗️ [platform-infrastructure-as-code](https://github.com/jaswanthigolla-source/platform-infrastructure-as-code)
+**How do you provision an entire AWS platform repeatably?**
+Terraform modules for VPC, EKS cluster, RDS PostgreSQL. Output chaining, remote state, automation scripts.
+
+`Terraform` `AWS` `EKS` `VPC` `RDS`
+
+</td>
+</tr>
+</table>
+
+### 📚 [distributed-platform-architecture-study](https://github.com/jaswanthigolla-source/distributed-platform-architecture-study)
+Deep-dive architecture studies — Kafka internals, Kubernetes scheduling, Saga, CQRS, Circuit Breaker, DLQ patterns with real-world tradeoff analysis.
+
+`System Design` `Kafka` `Kubernetes` `Microservices` `Architecture`
 
 ---
 
-## 📊 Production Impact
+## 📊 GitHub Stats
 
-| Metric | Result |
-|--------|--------|
-| US Stores Supported | 4,300+ |
-| Microservices Platform Size | 400-500 services |
-| Kafka Pipeline Latency | Sub-100ms |
-| Production Uptime | 99.9% |
-| Data Loss Incidents | Zero over 12 months |
-| Credential Breaches | Zero |
-| Manual Provisioning Reduction | 60% via Terraform |
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jaswanthigolla-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=2c9ae8&icon_color=2c9ae8&text_color=ffffff" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthigolla-source&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c9ae8&text_color=ffffff" height="180"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaswanthigolla-source&theme=tokyonight&hide_border=true&background=0d1117&stroke=2c9ae8&ring=2c9ae8&fire=ff6b6b&currStreakLabel=2c9ae8)
+
+</div>
 
 ---
 
-## 📝 Research
+## 🎓 Research
 
-**IEEE ICSCNA 2023** — Machine Learning Applied to Network Analysis
-Peer-reviewed international conference publication
+📄 **IEEE Publication — ICSCNA 2023**
+*A Scalability-Equipped Machine Learning Approach for Predicting Hypertension*
+[View on IEEE Xplore →](https://ieeexplore.ieee.org/document/10370328)
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswanthi-golla)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaswanthi.golla@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaswanthigolla-source)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%"/>
+
+</div>
