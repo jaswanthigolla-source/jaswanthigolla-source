@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jaswanthi%20Golla&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20Platform%20Engineer&descAlignY=58&descSize=20&descColor=a8d8ea" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Jaswanthi%20Golla&fontSize=52&fontColor=fff&fontAlignY=38&desc=Backend%20%26%20Platform%20Engineer&descAlignY=58&descSize=20&descColor=a8d8ea&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -8,7 +8,15 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2C9AE8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+distributed+systems+that+scale+%F0%9F%94%A7;Java+%C2%B7+Kafka+%C2%B7+Kubernetes+%C2%B7+Terraform+%C2%B7+AWS;Backend+%26+Platform+Engineer+%40+Advance+Auto+Parts)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2C9AE8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+distributed+systems+that+scale+%F0%9F%94%A7;Java+%C2%B7+Kafka+%C2%B7+Kubernetes+%C2%B7+Terraform+%C2%B7+AWS;Backend+%26+Platform+Engineer+%40+Advance+Auto+Parts)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=jaswanthigolla-source&color=2c9ae8&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -22,19 +30,19 @@ I build distributed backend systems and platform infrastructure.
 
 Currently at **Advance Auto Parts** on the Commerce Services team — working with Java, Spring Boot, Apache Kafka, Kubernetes and OpenShift to build and operate microservices for a large-scale e-commerce platform.
 
-Outside of work I've built across the full platform engineering stack — observability with Prometheus, Grafana, Loki and Jaeger · Kubernetes platform engineering with Helm and ArgoCD · Infrastructure automation with Terraform on AWS.
+Outside of work I have built across the full platform engineering stack — observability with Prometheus, Grafana, Loki and Jaeger · Kubernetes platform engineering with Helm and ArgoCD · Infrastructure automation with Terraform on AWS.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks**
+**Languages and Frameworks**
 
 ![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-**Infrastructure & DevOps**
+**Infrastructure and DevOps**
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -76,7 +84,7 @@ Outside of work I've built across the full platform engineering stack — observ
 
 ### 🔍 [microservices-observability-stack](https://github.com/jaswanthigolla-source/microservices-observability-stack)
 **How do you know something is wrong before your users do?**
-Prometheus + Grafana + Loki + Jaeger + Alertmanager. Custom business metrics, 5 alert rules, incident runbooks with PromQL.
+Prometheus + Grafana + Loki + Jaeger + Alertmanager. Custom business metrics, 5 alert rules, incident runbooks.
 
 `Prometheus` `Grafana` `Loki` `Jaeger` `Micrometer`
 
@@ -115,15 +123,15 @@ Deep-dive architecture studies — Kafka internals, Kubernetes scheduling, Saga,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaswanthigolla-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=2c9ae8&icon_color=2c9ae8&text_color=ffffff" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jaswanthigolla-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthigolla-source&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c9ae8&text_color=ffffff" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthigolla-source&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaswanthigolla-source&theme=tokyonight&hide_border=true&background=0d1117&stroke=2c9ae8&ring=2c9ae8&fire=ff6b6b&currStreakLabel=2c9ae8)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaswanthigolla-source&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -133,7 +141,7 @@ Deep-dive architecture studies — Kafka internals, Kubernetes scheduling, Saga,
 
 📄 **IEEE Publication — ICSCNA 2023**
 *A Scalability-Equipped Machine Learning Approach for Predicting Hypertension*
-[View on IEEE Xplore →](https://ieeexplore.ieee.org/document/10370328)
+[View on IEEE Xplore](https://ieeexplore.ieee.org/document/10370328)
 
 ---
 
@@ -147,6 +155,6 @@ Deep-dive architecture studies — Kafka internals, Kubernetes scheduling, Saga,
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
