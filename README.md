@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=200&amp;section=header&amp;text=Jaswanthi%20Golla&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Backend%20%26%20Platform%20Engineer&amp;descAlignY=58&amp;descSize=20&amp;descColor=a8d8ea" width="100%"/>
 
@@ -21,7 +21,29 @@
 
 </div>
 
----
+--- -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=200&amp;section=header&amp;text=Jaswanthi%20Golla&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Backend%20%26%20Platform%20Engineer&amp;descAlignY=58&amp;descSize=20&amp;descColor=a8d8ea" width="100%"/>
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="200"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=3000&amp;pause=1000&amp;color=2C9AE8&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=600&amp;height=80&amp;lines=Building+distributed+systems+that+scale+%F0%9F%94%A7;Java+%7C+Kafka+%7C+Kubernetes+%7C+Terraform+%7C+AWS;Backend+%26+Platform+Engineer+%40+Advance+Auto+Parts)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/jaswanthi-golla)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:jaswanthi.golla@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/jaswanthigolla-source)
+[![IEEE](https://img.shields.io/badge/IEEE-Published-00629B?style=for-the-badge&amp;logo=ieee&amp;logoColor=white)](https://ieeexplore.ieee.org/document/10370328)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=jaswanthigolla-source&amp;color=2c9ae8&amp;style=for-the-badge&amp;label=PROFILE+VIEWS)
+
+</div>
 
 ## 👩‍💻 About Me
 
