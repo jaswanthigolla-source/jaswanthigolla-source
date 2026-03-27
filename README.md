@@ -124,14 +124,6 @@ Deep-dive architecture studies — Kafka internals, Kubernetes scheduling, Saga,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaswanthigolla-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=2c9ae8&icon_color=2c9ae8&text_color=ffffff" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthigolla-source&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c9ae8&text_color=ffffff" height="180"/>
-
-</div>
-
-<div align="center">
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaswanthigolla-source&theme=tokyonight&hide_border=true&background=0d1117&stroke=2c9ae8&ring=2c9ae8&fire=ff6b6b&currStreakLabel=2c9ae8)
 
 </div>
