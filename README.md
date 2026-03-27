@@ -1,39 +1,45 @@
 <div align="center">
 
-# Hi, I'm Jaswanthi Golla 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Jaswanthi%20Golla&fontSize=50&fontColor=e94560&fontAlignY=38&desc=Backend%20%26%20Platform%20Engineer&descAlignY=58&descSize=22&descColor=a8d8ea" width="100%"/>
 
-### Backend & Platform Engineer
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2C9AE8&center=true&vCenter=true&width=600&lines=Building+distributed+systems+that+scale;Java+%C2%B7+Kafka+%C2%B7+Kubernetes+%C2%B7+Terraform;Backend+%26+Platform+Engineer+%40+Advance+Auto+Parts)](https://git.io/typing-svg)
+<div align="center">
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&width=700&lines=Building+distributed+systems+that+scale+%F0%9F%94%A7;Java+%7C+Kafka+%7C+Kubernetes+%7C+Terraform+%7C+AWS;Backend+%26+Platform+Engineer+%40+Advance+Auto+Parts;IEEE+Published+Researcher+%7C+Hyderabad%2C+India)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswanthi-golla)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaswanthi.golla@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaswanthigolla-source)
-[![Profile Views](https://komarev.com/ghpvc/?username=jaswanthigolla-source&color=2c9ae8&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/jaswanthigolla-source)
+[![IEEE](https://img.shields.io/badge/IEEE-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10370328)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=jaswanthigolla-source&color=e94560&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
 I build distributed backend systems and platform infrastructure.
 
-Currently at **Advance Auto Parts** on the Commerce Services team working with Java, Spring Boot, Apache Kafka, Kubernetes and OpenShift to build and operate microservices for a large-scale e-commerce platform.
+Currently at **Advance Auto Parts** on the Commerce Services team — working with Java, Spring Boot, Apache Kafka, Kubernetes and OpenShift to build and operate microservices for a large-scale e-commerce platform.
 
 Outside of work I have built across the full platform engineering stack — observability with Prometheus, Grafana, Loki and Jaeger · Kubernetes platform engineering with Helm and ArgoCD · Infrastructure automation with Terraform on AWS.
 
-📄 **IEEE Publication** — ICSCNA 2023 — [View on IEEE Xplore](https://ieeexplore.ieee.org/document/10370328)
-
-<br clear="right"/>
+📄 **IEEE Published Researcher** — ICSCNA 2023 — [View Paper on IEEE Xplore](https://ieeexplore.ieee.org/document/10370328)
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Languages and Frameworks**
 
@@ -66,7 +72,7 @@ Outside of work I have built across the full platform engineering stack — obse
 
 ---
 
-### 🚀 Projects
+## 🚀 Projects
 
 <table>
 <tr>
@@ -74,7 +80,7 @@ Outside of work I have built across the full platform engineering stack — obse
 <h3 align="center">🔧 Event-Driven Commerce Platform</h3>
 <p align="center">
 <a href="https://github.com/jaswanthigolla-source/event-driven-commerce-platform">
-<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Project-e94560?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 <p><b>How do you build microservices that never lose events?</b><br/>
@@ -85,11 +91,11 @@ Outside of work I have built across the full platform engineering stack — obse
 <h3 align="center">🔍 Microservices Observability Stack</h3>
 <p align="center">
 <a href="https://github.com/jaswanthigolla-source/microservices-observability-stack">
-<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Project-e94560?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 <p><b>How do you know something is wrong before your users do?</b><br/>
-Prometheus + Grafana + Loki + Jaeger + Alertmanager. Custom business metrics, 5 alert rules, incident runbooks.</p>
+Prometheus + Grafana + Loki + Jaeger + Alertmanager. Custom business metrics, 5 alert rules, incident runbooks with PromQL.</p>
 <p><code>Prometheus</code> <code>Grafana</code> <code>Loki</code> <code>Jaeger</code> <code>Micrometer</code></p>
 </td>
 </tr>
@@ -98,22 +104,22 @@ Prometheus + Grafana + Loki + Jaeger + Alertmanager. Custom business metrics, 5 
 <h3 align="center">⚙️ Kubernetes Platform Lab</h3>
 <p align="center">
 <a href="https://github.com/jaswanthigolla-source/kubernetes-platform-lab">
-<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Project-e94560?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 <p><b>How do you engineer a platform, not just deploy to one?</b><br/>
-RBAC, network policies, HPA autoscaling, Helm chart, ArgoCD GitOps for automated CD from GitHub.</p>
+RBAC, network policies, HPA autoscaling, Helm chart, ArgoCD GitOps for automated continuous delivery from GitHub.</p>
 <p><code>Kubernetes</code> <code>Helm</code> <code>ArgoCD</code> <code>RBAC</code> <code>GitOps</code></p>
 </td>
 <td width="50%">
 <h3 align="center">🏗️ Platform Infrastructure as Code</h3>
 <p align="center">
 <a href="https://github.com/jaswanthigolla-source/platform-infrastructure-as-code">
-<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Project-e94560?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 <p><b>How do you provision an entire AWS platform repeatably?</b><br/>
-Terraform modules for VPC, EKS cluster, RDS PostgreSQL. Output chaining, remote state, automation scripts.</p>
+Terraform modules for VPC, EKS cluster, RDS PostgreSQL. Output chaining, remote state, deploy and destroy automation scripts.</p>
 <p><code>Terraform</code> <code>AWS</code> <code>EKS</code> <code>VPC</code> <code>RDS</code></p>
 </td>
 </tr>
@@ -127,18 +133,28 @@ Deep-dive architecture studies — Kafka internals, Kubernetes scheduling, Saga,
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaswanthigolla-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthigolla-source&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jaswanthigolla-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=e94560&icon_color=e94560" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthigolla-source&layout=compact&theme=tokyonight&hide_border=true&title_color=e94560" height="165"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaswanthigolla-source&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaswanthigolla-source&theme=tokyonight&hide_border=true&ring=e94560&fire=e94560&currStreakLabel=e94560)
+
+</div>
+
+---
+
+## 🎓 Research Publication
+
+<div align="center">
+
+[![IEEE Paper](https://img.shields.io/badge/IEEE_ICSCNA_2023-A_Scalability--Equipped_ML_Approach_for_Predicting_Hypertension-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10370328)
 
 </div>
 
@@ -146,6 +162,6 @@ Deep-dive architecture studies — Kafka internals, Kubernetes scheduling, Saga,
 
 <div align="center">
 
-*Building systems that scale — one commit at a time* 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" width="100%"/>
 
 </div>
