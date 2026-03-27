@@ -1,40 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Jaswanthi%20Golla&fontSize=52&fontColor=fff&fontAlignY=38&desc=Backend%20%26%20Platform%20Engineer&descAlignY=58&descSize=20&descColor=a8d8ea&animation=fadeIn" width="100%"/>
+# Hi, I'm Jaswanthi Golla 👋
 
-</div>
+### Backend & Platform Engineer
 
-<br/>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2C9AE8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+distributed+systems+that+scale+%F0%9F%94%A7;Java+%C2%B7+Kafka+%C2%B7+Kubernetes+%C2%B7+Terraform+%C2%B7+AWS;Backend+%26+Platform+Engineer+%40+Advance+Auto+Parts)](https://git.io/typing-svg)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2C9AE8&center=true&vCenter=true&width=600&lines=Building+distributed+systems+that+scale;Java+%C2%B7+Kafka+%C2%B7+Kubernetes+%C2%B7+Terraform;Backend+%26+Platform+Engineer+%40+Advance+Auto+Parts)](https://git.io/typing-svg)
 
 <br/>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=jaswanthigolla-source&color=2c9ae8&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswanthi-golla)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaswanthi.golla@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaswanthigolla-source)
+[![Profile Views](https://komarev.com/ghpvc/?username=jaswanthigolla-source&color=2c9ae8&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/jaswanthigolla-source)
 
 </div>
-
-<br/>
 
 ---
 
-## 👩‍💻 About Me
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+### 👩‍💻 About Me
 
 I build distributed backend systems and platform infrastructure.
 
-Currently at **Advance Auto Parts** on the Commerce Services team — working with Java, Spring Boot, Apache Kafka, Kubernetes and OpenShift to build and operate microservices for a large-scale e-commerce platform.
+Currently at **Advance Auto Parts** on the Commerce Services team working with Java, Spring Boot, Apache Kafka, Kubernetes and OpenShift to build and operate microservices for a large-scale e-commerce platform.
 
 Outside of work I have built across the full platform engineering stack — observability with Prometheus, Grafana, Loki and Jaeger · Kubernetes platform engineering with Helm and ArgoCD · Infrastructure automation with Terraform on AWS.
 
+📄 **IEEE Publication** — ICSCNA 2023 — [View on IEEE Xplore](https://ieeexplore.ieee.org/document/10370328)
+
+<br clear="right"/>
+
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 **Languages and Frameworks**
 
@@ -67,65 +66,73 @@ Outside of work I have built across the full platform engineering stack — obse
 
 ---
 
-## 🚀 Projects
+### 🚀 Projects
 
 <table>
 <tr>
 <td width="50%">
-
-### 🔧 [event-driven-commerce-platform](https://github.com/jaswanthigolla-source/event-driven-commerce-platform)
-**How do you build microservices that never lose events?**
-4 Spring Boot services on Kafka — DLQ handling, exponential backoff retry, idempotency keys, Kubernetes manifests, GitHub Actions CI/CD.
-
-`Java 17` `Spring Boot` `Kafka` `Kubernetes` `Docker`
-
+<h3 align="center">🔧 Event-Driven Commerce Platform</h3>
+<p align="center">
+<a href="https://github.com/jaswanthigolla-source/event-driven-commerce-platform">
+<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+<p><b>How do you build microservices that never lose events?</b><br/>
+4 Spring Boot services on Kafka — DLQ handling, exponential backoff retry, idempotency keys, Kubernetes manifests, GitHub Actions CI/CD.</p>
+<p><code>Java 17</code> <code>Spring Boot</code> <code>Kafka</code> <code>Kubernetes</code> <code>Docker</code></p>
 </td>
 <td width="50%">
-
-### 🔍 [microservices-observability-stack](https://github.com/jaswanthigolla-source/microservices-observability-stack)
-**How do you know something is wrong before your users do?**
-Prometheus + Grafana + Loki + Jaeger + Alertmanager. Custom business metrics, 5 alert rules, incident runbooks.
-
-`Prometheus` `Grafana` `Loki` `Jaeger` `Micrometer`
-
+<h3 align="center">🔍 Microservices Observability Stack</h3>
+<p align="center">
+<a href="https://github.com/jaswanthigolla-source/microservices-observability-stack">
+<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+<p><b>How do you know something is wrong before your users do?</b><br/>
+Prometheus + Grafana + Loki + Jaeger + Alertmanager. Custom business metrics, 5 alert rules, incident runbooks.</p>
+<p><code>Prometheus</code> <code>Grafana</code> <code>Loki</code> <code>Jaeger</code> <code>Micrometer</code></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-
-### ⚙️ [kubernetes-platform-lab](https://github.com/jaswanthigolla-source/kubernetes-platform-lab)
-**How do you engineer a platform, not just deploy to one?**
-RBAC, network policies, HPA autoscaling, Helm chart, ArgoCD GitOps for automated CD from GitHub.
-
-`Kubernetes` `Helm` `ArgoCD` `RBAC` `GitOps`
-
+<h3 align="center">⚙️ Kubernetes Platform Lab</h3>
+<p align="center">
+<a href="https://github.com/jaswanthigolla-source/kubernetes-platform-lab">
+<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+<p><b>How do you engineer a platform, not just deploy to one?</b><br/>
+RBAC, network policies, HPA autoscaling, Helm chart, ArgoCD GitOps for automated CD from GitHub.</p>
+<p><code>Kubernetes</code> <code>Helm</code> <code>ArgoCD</code> <code>RBAC</code> <code>GitOps</code></p>
 </td>
 <td width="50%">
-
-### 🏗️ [platform-infrastructure-as-code](https://github.com/jaswanthigolla-source/platform-infrastructure-as-code)
-**How do you provision an entire AWS platform repeatably?**
-Terraform modules for VPC, EKS cluster, RDS PostgreSQL. Output chaining, remote state, automation scripts.
-
-`Terraform` `AWS` `EKS` `VPC` `RDS`
-
+<h3 align="center">🏗️ Platform Infrastructure as Code</h3>
+<p align="center">
+<a href="https://github.com/jaswanthigolla-source/platform-infrastructure-as-code">
+<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+<p><b>How do you provision an entire AWS platform repeatably?</b><br/>
+Terraform modules for VPC, EKS cluster, RDS PostgreSQL. Output chaining, remote state, automation scripts.</p>
+<p><code>Terraform</code> <code>AWS</code> <code>EKS</code> <code>VPC</code> <code>RDS</code></p>
 </td>
 </tr>
 </table>
 
-### 📚 [distributed-platform-architecture-study](https://github.com/jaswanthigolla-source/distributed-platform-architecture-study)
+### 📚 [Distributed Platform Architecture Study](https://github.com/jaswanthigolla-source/distributed-platform-architecture-study)
+
 Deep-dive architecture studies — Kafka internals, Kubernetes scheduling, Saga, CQRS, Circuit Breaker, DLQ patterns with real-world tradeoff analysis.
 
 `System Design` `Kafka` `Kubernetes` `Microservices` `Architecture`
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaswanthigolla-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthigolla-source&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jaswanthigolla-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthigolla-source&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
@@ -137,24 +144,8 @@ Deep-dive architecture studies — Kafka internals, Kubernetes scheduling, Saga,
 
 ---
 
-## 🎓 Research
-
-📄 **IEEE Publication — ICSCNA 2023**
-*A Scalability-Equipped Machine Learning Approach for Predicting Hypertension*
-[View on IEEE Xplore](https://ieeexplore.ieee.org/document/10370328)
-
----
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswanthi-golla)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaswanthi.golla@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaswanthigolla-source)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" width="100%"/>
+*Building systems that scale — one commit at a time* 🚀
 
 </div>
