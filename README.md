@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jaswanthi%20Golla&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20Platform%20Engineer&descAlignY=58&descSize=20&descColor=a8d8ea" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=200&amp;section=header&amp;text=Jaswanthi%20Golla&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Backend%20%26%20Platform%20Engineer&amp;descAlignY=58&amp;descSize=20&amp;descColor=a8d8ea" width="100%"/>
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="200"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280"/>
 
 <br/>
 
@@ -148,6 +148,6 @@ Deep-dive architecture studies — Kafka internals, Kubernetes scheduling, Saga,
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=100&amp;section=footer" width="100%"/>
 
 </div>
