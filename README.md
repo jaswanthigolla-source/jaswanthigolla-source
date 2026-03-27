@@ -1,10 +1,10 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=2000&pause=500&color=FFFFFF&background=1A1B27&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=Hi+there%2C+I'm+Jaswanthi+Golla+%F0%9F%91%8B;Backend+%26+Platform+Engineer+%7C+Hyderabad%2C+India;Java+%7C+Kafka+%7C+Kubernetes+%7C+Terraform+%7C+AWS" alt="Header"/>
+</div>
 
-# Jaswanthi Golla
+<div align="center">
 
-**Backend & Platform Engineer**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+distributed+systems+that+scale;Java+%7C+Kafka+%7C+Kubernetes+%7C+Terraform+%7C+AWS;Platform+Engineer+%40+Advance+Auto+Parts;IEEE+Published+Researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+distributed+systems+that+scale;Java+%7C+Kafka+%7C+Kubernetes+%7C+Terraform+%7C+AWS;Platform+Engineer+%40+Advance+Auto+Parts;IEEE+Published+Researcher+%7C+Hyderabad%2C+India)](https://git.io/typing-svg)
 
 <br/>
 
@@ -89,7 +89,7 @@ Outside of work I have built across the full platform engineering stack — obse
 </a>
 </p>
 <p><b>How do you know something is wrong before your users do?</b><br/>
-Prometheus, Grafana, Loki, Jaeger, Alertmanager. Custom Micrometer business metrics, 5 alert rules and incident runbooks with PromQL.</p>
+Prometheus, Grafana, Loki, Jaeger and Alertmanager with custom Micrometer business metrics, 5 alert rules and incident runbooks.</p>
 <p>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
@@ -171,7 +171,5 @@ Deep-dive architecture studies — Kafka internals, Kubernetes scheduling, Saga,
 ---
 
 <div align="center">
-
-**Building systems that scale — one commit at a time**
-
+<b>Building systems that scale — one commit at a time 🚀</b>
 </div>
