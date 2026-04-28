@@ -25,11 +25,14 @@
 
 ## 👩‍💻 About Me
 
-I build distributed backend systems and platform infrastructure.
+Backend & Site Reliability Engineer
 
-Currently at **Advance Auto Parts** on the Commerce Services team — working with Java, Spring Boot, Apache Kafka, Kubernetes and OpenShift to build and operate microservices for a large-scale e-commerce platform.
+I specialize in architecting distributed backend systems and scalable platform infrastructure. Currently at Advance Auto Parts on the Commerce Services team, I design and operate high-concurrency microservices using Java, Spring Boot, and Apache Kafka, orchestrated via Kubernetes and OpenShift to ensure enterprise-grade reliability.
 
-Outside of work I have built across the full platform engineering stack — observability with Prometheus, Grafana, Loki and Jaeger · Kubernetes platform engineering with Helm and ArgoCD · Infrastructure automation with Terraform on AWS.
+Outside of my professional role, I am a dedicated platform engineer focused on building end-to-end cloud-native solutions. My technical expertise includes:
+* Observability: Designing monitoring and alerting frameworks with Prometheus, Grafana, Loki, and Jaeger.
+* Platform Engineering: Orchestrating complex Kubernetes clusters using Helm and ArgoCD.
+* Infrastructure as Code: Automating cloud environments with Terraform on AWS.
 
 📄 **IEEE Published Researcher** — ICSCNA 2023 — [View on IEEE Xplore](https://ieeexplore.ieee.org/document/10370328)
 
